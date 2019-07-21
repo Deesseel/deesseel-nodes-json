@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "name": "DeesselNodeOne",
+      "url": "213.166.70.106",
+      "port": 21898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "DeesselNodeTwo",
+      "url": "45.66.9.187",
+      "port": 21898,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
